@@ -13,4 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Hi there 👋
+
+Encabezado animado
+👋 ¡Hola! Soy Cristian David Ceballos
+Soy un apasionado de las finanzas y la ciencia de datos, con una sólida formación en economía y una amplia experiencia en el sector sin fines de lucro. Actualmente, me desempeño como Coordinador Financiero en una fundación colombiana que pertenece al régimen especial tributario.
+
+🎓 Educación
+Maestría en Ciencias de Datos (en curso)
+Maestría en Finanzas
+Especialización en Finanzas
+Pregrado en Economía
+💼 Experiencia Profesional
+Coordinador Financiero -
+🌱 Habilidades y Conocimientos
+Análisis financiero
+Gestión presupuestaria
+Ciencia de datos
+Programación en Python
+Bases de datos SQL, NoSQL
+Visualización de datos Tableau, Power BI
+📫 Contacto
+💼 LinkedIn: (https://www.linkedin.com/in/cristian-david-ceballos-vélez-5a456240/)
