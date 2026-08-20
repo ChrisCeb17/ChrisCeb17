@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ChrisCeb17/ChrisCeb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Hi there 👋
-
-Encabezado animado
+-->
 👋 ¡Hola! Soy Cristian David Ceballos
 Soy un apasionado de las finanzas y la ciencia de datos, con una sólida formación en economía y una amplia experiencia en el sector sin fines de lucro. Actualmente, me desempeño como Coordinador Financiero en una fundación colombiana que pertenece al régimen especial tributario.
 
